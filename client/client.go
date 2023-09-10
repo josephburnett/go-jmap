@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/foxcpp/go-jmap"
+	"github.com/josephburnett/go-jmap"
 )
 
 // The Client object wraps *http.Client and stores all information necessary to
